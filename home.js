@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 (function($) {
 
   skel.breakpoints({
@@ -214,4 +213,3 @@
 	});
 
 })(jQuery);
->>>>>>> cb167886507ae4c82b5c0cf1c0c0b00f4cf335f1
